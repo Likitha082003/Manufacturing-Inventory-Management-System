@@ -1,4 +1,4 @@
-For your **README.md**, you’ll want to keep it concise but informative, so that anyone cloning your repo understands what the project is, how to set it up, and how to use it. Here’s a professional structure you can follow for your Manufacturing Inventory Management System:
+
 
 ---
 
@@ -71,13 +71,4 @@ Ensure MongoDB is running locally:
 
 ---
 
-## 📌 Notes
-- Large files should be managed using **Git LFS** or external storage links.  
-- Validation rules prevent duplicate or invalid entries.  
-- Future enhancements: role‑based access, reporting, CSV/Excel export.  
 
----
-
-✅ This README gives a clear **overview, features, setup instructions, API reference, and notes**. It’s developer‑friendly and mirrors the professional tone of your case study.  
-
-Would you like me to also prepare a **short “Usage” section** (with example API calls using `curl` or Postman) so collaborators can quickly test your endpoints?
